@@ -145,7 +145,6 @@ O aplicativo ainda está em desenvolvimento.
 
 ## 🏠 Home / Catálogo
 
-- [ ] Destaques do mês
 - [x] Categorias
 - [ ] Lista de produtos
 - [x] Livros mais vendidos
@@ -177,14 +176,12 @@ O aplicativo ainda está em desenvolvimento.
 - [x] Cadastro
 - [x] Login
 - [ ] Dados pessoais
-- [ ] Segurança
 
 ## ❤️ Favoritos
 
 - [x] Produtos favoritos
 - [ ] Adicionar aos favoritos
 - [ ] Remover dos favoritos
-- [ ] Adicionar favorito ao carrinho
 
 ## 📦 Compras
 
@@ -317,14 +314,14 @@ O projeto está sendo desenvolvido no **Figma**, utilizando recursos de prototip
 ```text
 SYSTEM: LIVRARIA LISBOA
 MODE:   DEVELOPMENT
-
-██████████░░░░░░░░░░  EM DESENVOLVIMENTO
-
+ 
+████████████░░░░░░░░  EM DESENVOLVIMENTO
+ 
 CURRENT PHASE:
-UI/UX + PROTOTYPING
-
+CATÁLOGO + CONTA + COMPRA FINALIZADOS
+ 
 NEXT:
-CATÁLOGO + CONTA + FAVORITOS + COMPRAS
+PERFIL + COMPRAS + AVALIAÇÕES + NOTIFICAÇÕES + AJUDA
 ```
 
 </div>

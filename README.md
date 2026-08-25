@@ -146,42 +146,42 @@ O aplicativo ainda está em desenvolvimento.
 ## 🏠 Home / Catálogo
 
 - [ ] Destaques do mês
-- [ ] Categorias
+- [x] Categorias
 - [ ] Lista de produtos
-- [ ] Livros mais vendidos
-- [ ] Top 10 mais vendidos
-- [ ] Promoções
+- [x] Livros mais vendidos
+- [x] Top 10 mais vendidos
+- [x] Promoções
 
 ## 🔎 Busca e descoberta
 
 - [ ] Filtros
-- [ ] Tags de busca rápida
+- [x] Tags de busca rápida
 - [ ] Busca por categorias
 - [ ] Busca por autores
 
 ## 📖 Página do produto
 
-- [ ] Seleção de formato
-- [ ] Livro físico
-- [ ] E-book
+- [x] Seleção de formato
+- [x] Livro físico
+- [x] E-book
 - [ ] Avaliações
 - [ ] Opiniões
 - [ ] Avaliar produto
 - [ ] Produtos relacionados
 - [ ] Favoritar produto
-- [ ] Comprar agora
+- [x] Comprar agora
 
 ## 🔐 Conta do usuário
 
-- [ ] Tela inicial de acesso
-- [ ] Cadastro
-- [ ] Login
+- [x] Tela inicial de acesso
+- [x] Cadastro
+- [x] Login
 - [ ] Dados pessoais
 - [ ] Segurança
 
 ## ❤️ Favoritos
 
-- [ ] Produtos favoritos
+- [x] Produtos favoritos
 - [ ] Adicionar aos favoritos
 - [ ] Remover dos favoritos
 - [ ] Adicionar favorito ao carrinho
@@ -222,8 +222,8 @@ O aplicativo ainda está em desenvolvimento.
 
 ## 📚 Autores e avaliações
 
-- [ ] Lista de autores
-- [ ] Livros de cada autor
+- [x] Lista de autores
+- [x] Livros de cada autor
 - [ ] Avaliações dos produtos
 - [ ] Histórico de avaliações
 

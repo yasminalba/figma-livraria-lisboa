@@ -336,7 +336,7 @@ PERFIL + COMPRAS + AVALIAÇÕES + NOTIFICAÇÕES + AJUDA
 
 <div align="center">
 
-<a href="https://www.figma.com/proto/0UJdX4i9lsYD8uEVsD0AVo/wireframe?node-id=80-1123&t=3VeayPY50ouloxxQ-1">
+<a href="https://www.figma.com/proto/0UJdX4i9lsYD8uEVsD0AVo/wireframe?node-id=247-280&p=f&t=CBEmK3DSDAFEjIaL-1&scaling=scale-down&content-scaling=fixed&page-id=80%3A1122&starting-point-node-id=247%3A280">
 
 <img src="https://img.shields.io/badge/▶_EXPLORAR_PROTÓTIPO-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 

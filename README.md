@@ -254,34 +254,7 @@ O projeto está sendo desenvolvido no **Figma**, utilizando recursos de prototip
 
 ---
 
-# 📊 Progresso
-
-<div align="center">
-
-### 🚧 PROJECT STATUS
-
-```text
-SYSTEM: LIVRARIA LISBOA
-MODE:   DEVELOPMENT
- 
-████████████░░░░░░░░  EM DESENVOLVIMENTO
- 
-CURRENT PHASE:
-CATÁLOGO + CONTA + COMPRA FINALIZADOS
- 
-NEXT:
-PERFIL + COMPRAS + AVALIAÇÕES + NOTIFICAÇÕES + AJUDA
-```
-
-</div>
-
-
-
----
-
 # 🔗 Protótipo no Figma
-
-> 🚧 **O protótipo está em desenvolvimento.** Novas telas e fluxos serão adicionados conforme o projeto evolui.
 
 <div align="center">
 
@@ -325,31 +298,6 @@ O desenvolvimento do **Livraria Lisboa** está proporcionando prática em difere
 
 ---
 
-# 🚀 Próximos passos
-
-O projeto continuará sendo desenvolvido gradualmente no Figma, com foco na expansão da experiência do usuário e na conclusão das telas planejadas.
-
-### Próximas etapas
-
-- [ ] Finalizar a Home / Catálogo
-- [ ] Adicionar destaques do mês
-- [ ] Adicionar categorias
-- [ ] Adicionar lista de produtos
-- [ ] Desenvolver as demais telas planejadas
-- [ ] Expandir o fluxo de navegação
-- [ ] Continuar a prototipação interativa
-- [ ] Revisar e aprimorar as telas conforme o projeto evolui
-
-> O escopo poderá ser atualizado durante o desenvolvimento conforme novas ideias e necessidades do projeto forem identificadas.
----
-
-# 🚀 Evolução futura
-
-Após a conclusão do protótipo, o projeto poderá futuramente ser utilizado como base para uma implementação em código.
-
-Por enquanto, o foco está no desenvolvimento da **interface, experiência do usuário e prototipação no Figma**.
-
----
 
 # 👩‍💻 Sobre a autora
 

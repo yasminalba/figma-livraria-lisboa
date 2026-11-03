@@ -137,92 +137,41 @@ Atualmente, o projeto possui as seguintes telas desenvolvidas:
 
 - [x] Confirmação do pagamento
 
----
-
-# 🚧 Roadmap
-
-O aplicativo ainda está em desenvolvimento.
-
-## 🏠 Home / Catálogo
-
-- [x] Categorias
-- [ ] Lista de produtos
-- [x] Livros mais vendidos
-- [x] Top 10 mais vendidos
-- [x] Promoções
-
-## 🔎 Busca e descoberta
-
-- [ ] Filtros
-- [x] Tags de busca rápida
-- [ ] Busca por categorias
-- [ ] Busca por autores
-
-## 📖 Página do produto
-
-- [x] Seleção de formato
-- [x] Livro físico
-- [x] E-book
-- [ ] Avaliações
-- [ ] Opiniões
-- [ ] Avaliar produto
-- [ ] Produtos relacionados
-- [ ] Favoritar produto
-- [x] Comprar agora
 
 ## 🔐 Conta do usuário
 
 - [x] Tela inicial de acesso
 - [x] Cadastro
 - [x] Login
-- [ ] Dados pessoais
 
 ## ❤️ Favoritos
 
 - [x] Produtos favoritos
-- [ ] Adicionar aos favoritos
-- [ ] Remover dos favoritos
 
 ## 📦 Compras
 
-- [ ] Minhas compras
-- [ ] Histórico de compras
-- [ ] Ver compra
-- [ ] Informações sobre a compra
-- [ ] Detalhes do envio
-- [ ] Comprar novamente
+- [x] Minhas compras
+- [x] Histórico de compras
+- [x] Ver compra
 
 ## 🔔 Notificações
 
-- [ ] Central de notificações
-- [ ] Promoções
-- [ ] Atualizações de pedidos
-- [ ] Detalhes do envio
+- [x] Central de notificações
 
 ## 👤 Perfil
 
-- [ ] Perfil
-- [ ] Dados pessoais
-- [ ] Segurança
-- [ ] Favoritos
-- [ ] Minhas compras
-- [ ] Histórico de compras
-- [ ] Histórico de avaliações
-- [ ] Sair
+- [x] Perfil
 
 ## 💬 Ajuda e suporte
 
-- [ ] Central de ajuda
-- [ ] Perguntas frequentes
-- [ ] Fale conosco
-- [ ] Falar com um atendente
+- [x] Central de ajuda
+- [x] Perguntas frequentes
 
 ## 📚 Autores e avaliações
 
 - [x] Lista de autores
 - [x] Livros de cada autor
-- [ ] Avaliações dos produtos
-- [ ] Histórico de avaliações
+
 
 ---
 
